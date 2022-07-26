@@ -1,0 +1,70 @@
+
+.hero-image {
+    background-image: url("imagens/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media.jpg");
+    background-color: #cccccc;
+    height: 1109px;    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .bg-light{
+    background-color: #ffffff !important;
+}
+
+.bg-dark{
+    opacity: 0.9;
+}
+
+.bg-dark:hover{
+    opacity: 1;
+}
+
+footer{
+    background-image: url("imagens/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media.jpg");
+    background-color: #292626;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 160px;
+   
+}
+
+.icons{
+    border: 0px solid black;
+    
+    padding-left: 80px;
+    padding-right: 5px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+   
+}
+
+
+body{
+    background-color: #e8f1e9;
+}
+
+.sobre{
+  text-align: center;
+  font-size: 100;
+  align-content: center;
+}
+
+a{
+  color: #ffffff;
+  font-size: 35px;
+  
+}
+
+ul{
+    padding-left: 447px;
+ 
+}
+
+.nav-item{
+    padding-left: 89px
+}
+
